@@ -6,11 +6,16 @@ const Educacion = () => {
       año: "2025"
     },
     {
-      institucion: "Platzi",
+      institucion: "Hardvard",
+      curso: "aerospace engineering",
+      año: "2020"
+    },
+    {
+         institucion: "Platzi",
       curso: "Curso de React",
       año: "2024"
     }
-    // Agrega más si deseas
+   
   ];
 
   return (
