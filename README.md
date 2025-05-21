@@ -8,7 +8,7 @@ Este proyecto consiste en una hoja de vida desarrollada con React y Vite.
 ## Instrucciones para ejecutar el proyecto
 
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/cv-react-tu-nombre.git
+git clone https://github.com/Simonvasquez0811/cv-simon
 
 
 
