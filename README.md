@@ -3,7 +3,7 @@
 Este proyecto consiste en una hoja de vida desarrollada con React y Vite.
 
 ## Captura de pantalla
-![Captura](src/readme.png)
+![Captura](cv-react-tu-nombre/src/readme.png)
 
 ## Instrucciones para ejecutar el proyecto
 
